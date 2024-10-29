@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Jörn Depenbrock</h1>
-<h3 align="center">Serial Entrepreneur, Tech Founder, Full Stack Engineer, Engineering Manager</h3>
+<h1 align="center">Hi 👋, I'm Jörn</h1>
+<h3 align="center">Serial Entrepreneur, Full Stack Engineer, Advisor, Investor</h3>
 
 - 🔭 I’m currently working on [nuwo. furnitureOS: The first and only End-To-End Technology for Purchasing and Managing Office Furnitures](https://www.nuwo.co)
 
