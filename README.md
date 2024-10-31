@@ -87,7 +87,7 @@
               </td>
               <td width="50%" style="border: 0;">
                   <p>
-                    Scaled team and Software to X ARR; hired Scaled team and Software to X ARR; hired  Scaled team and Software to X ARR; hired Scaled team and Software to X ARR; hired Scaled team and Software to X ARR; hired  asdfasdf 
+                    TODO
                   </p>
               </td>
             </tr>
@@ -144,7 +144,7 @@
               </td>
               <td width="50%" style="border: 0;">
                   <p>
-                    Scaled team and Software to X ARR; hired Scaled team and Software to X ARR; hired  Scaled team and Software to X ARR; hired Scaled team and Software to X ARR; hired Scaled team and Software to X ARR; hired  asdfasdf 
+                    TODO
                   </p>
               </td>
             </tr>
