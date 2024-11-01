@@ -18,32 +18,30 @@
 <table>
   <tbody>
     <tr>
-      <table style="border: 0; border-collapse: collapse;">
-          <tbody>
-            <tr>
-              <a href="https://www.nuwo.co" target="_blank">www.nuwo.co</a> 
-              <td width="50%" style="border: 0;">
-                  <ul>
-                      <li><b>Position:</b> CTO & Co-Founder</li>
-                      <li><b>Location:</b> Berlin/Germany</li>
-                      <li><b>Start:</b> 1669852800 (2022-12-01)</li>
-                      <li><b>End:</b> -</li>
-                  </ul>
-              </td>
-              <td width="50%" style="border: 0;">
-                  <p>
-                   Building the first and only End-To-End Technology for Purchasing and Managing Office Furniture.
-                   I'm building and leading a high performing engineering team to enable our business vision. Beside that I'm responsible for Product and Technology decisions for ensuring our success.
-                  </p>
-              </td>
-            </tr>
-            <tr>
-                <td colspan="2" style="border: 0;">
-                    <img alt="Photo" src="./assets/nuwo_screenshot_1.png" />
-                </td>
-            </tr>
-          </tbody>
-      </table>
+      <td colspan="2" style="border: 0;">
+        <a href="https://www.nuwo.co" target="_blank" style="font-size: 1.5em; font-weight: bold;">www.nuwo.co</a>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" style="border: 0;">
+        <ul>
+          <li><b>Position:</b> CTO & Co-Founder</li>
+          <li><b>Location:</b> Berlin/Germany</li>
+          <li><b>Start:</b> 1669852800 (2022-12-01)</li>
+          <li><b>End:</b> -</li>
+        </ul>
+      </td>
+      <td width="50%" style="border: 0;">
+        <p>
+          Building the first and only End-To-End Technology for Purchasing and Managing Office Furniture.
+          I'm building and leading a high performing engineering team to enable our business vision. Beside that I'm responsible for Product and Technology decisions for ensuring our success.
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" style="border: 0;">
+        <img alt="Photo" src="./assets/nuwo_screenshot_1.png" />
+      </td>
     </tr>
     <tr>
       <table style="border: 0; border-collapse: collapse;">
