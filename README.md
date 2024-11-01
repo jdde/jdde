@@ -18,10 +18,10 @@
 <table>
   <tbody>
     <tr>
-      <table style="border: 0; border-collapse: collapse; background-image:linear-gradient(333deg, #008367, white 91%); color: #333;">
+      <table style="border: 0; border-collapse: collapse;">
           <tbody>
             <tr>
-<a href="https://www.nuwo.co" target="_blank"><h3>ww.nuwo.co</h3></a>
+              <a href="https://www.nuwo.co" target="_blank">www.nuwo.co</a> 
               <td width="50%" style="border: 0;">
                   <ul>
                       <li><b>Position:</b> CTO & Co-Founder</li>
@@ -46,10 +46,10 @@
       </table>
     </tr>
     <tr>
-      <table style="border: 0; border-collapse: collapse; background-image: linear-gradient(333deg, #e040fa 50%, white 50%); color: #333">
+      <table style="border: 0; border-collapse: collapse;">
           <tbody>
             <tr>
-              <a href="https://www.unping.com/app" target="_blank" style="color:#080e3b"><h3>www.unping.com</h3></a>
+              <a href="https://www.unping.com/app" target="_blank">www.unping.com</a>
               <td width="50%" style="border: 0;">
                   <ul>
                       <li><b>Position:</b> CTO & Co-Founder</li>
@@ -73,10 +73,10 @@
       </table>
     </tr>
     <tr>
-      <table style="border: 0; border-collapse: collapse; background-image:linear-gradient(333deg, #2648db, white 91%); color: #333">
+      <table style="border: 0; border-collapse: collapse;">
           <tbody>
             <tr>
-              <a href="https://www.wundermobility.com" target="_blank" style="color:#2648db"><h3>www.wundermobility.com</h3></a>
+              <a href="https://www.wundermobility.com" target="_blank">www.wundermobility.com</a>
               <td width="50%" style="border: 0;">
                   <ul>
                       <li><b>Position:</b> CTO & Co-Founder</li>
@@ -100,10 +100,10 @@
       </table>
     </tr>
     <tr>
-      <table style="border: 0; border-collapse: collapse; background-image:linear-gradient(333deg, #2648db, white 91%); color: #333">
+      <table style="border: 0; border-collapse: collapse;">
           <tbody>
             <tr>
-              <a href="https://www.fleetbird.com" target="_blank" style="color:#2648db"><h3>www.fleetbird.com</h3></a>
+              <a href="https://www.fleetbird.com" target="_blank">www.fleetbird.com</a>
               <td width="50%" style="border: 0;">
                   <ul>
                       <li><b>Position:</b> Backend Team Lead & Engineer</li>
@@ -130,10 +130,10 @@
       </table>
     </tr>
     <tr>
-      <table style="border: 0; border-collapse: collapse; background-image:linear-gradient(333deg, #008367, white 91%); color: #333">
+      <table style="border: 0; border-collapse: collapse;">
           <tbody>
             <tr>
-              <a href="https://www.caregaroo.de" target="_blank" style="color:#008367"><h3>www.caregaroo.de</h3></a>
+              <a href="https://www.caregaroo.de" target="_blank">www.caregaroo.de</a>
               <td width="50%" style="border: 0;">
                   <ul>
                       <li><b>Position:</b> CTO & Co-Founder</li>
