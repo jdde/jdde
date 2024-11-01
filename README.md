@@ -21,10 +21,7 @@
       <table style="border: 0; border-collapse: collapse; background-image:linear-gradient(333deg, #008367, white 91%); color: #333;">
           <tbody>
             <tr>
-              [www.nuwo.co](https://www.nuwo.co)
-              <a href="https://www.nuwo.co" target="_blank">
-                <h3>www.nuwo.co</h3>
-              </a>
+<a href="https://www.nuwo.co" target="_blank">www.nuwo.co</a>
               <td width="50%" style="border: 0;">
                   <ul>
                       <li><b>Position:</b> CTO & Co-Founder</li>
