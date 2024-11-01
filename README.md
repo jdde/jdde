@@ -123,7 +123,7 @@
     </tr>
     <tr>
       <td colspan="2">
-        <h3><a href="https://www.caregaroo.de" target="_blank" style="font-size: 1.5em; font-weight: bold;">Caregaroo - Marketplace Platform for Babysitter & Parent matching</a></h3>
+        <h3 style="color:red;"><a href="https://www.caregaroo.de" target="_blank" style="font-size: 1.5em; font-weight: bold;color:red;">Caregaroo - Marketplace Platform for Babysitter & Parent matching</a></h3>
       </td>
     </tr>
     <tr>
