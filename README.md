@@ -147,8 +147,10 @@
       </td>
     </tr>
     <tr>
-      <h3 align="left">Technologies used:</h3>
-      <a href="https://loopback.io/" target="_blank" rel="noreferrer"> <img src="https://github.com/bestofjs/bestofjs/blob/master/apps/bestofjs-nextjs/public/logos/loopback3.svg" alt="loopback3" width="40" height="40"/> </a>
+      <td colspan="2">
+        <h3 align="left">Technologies used:</h3>
+        <a href="https://loopback.io/" target="_blank" rel="noreferrer"> <img src="https://github.com/bestofjs/bestofjs/blob/master/apps/bestofjs-nextjs/public/logos/loopback3.svg" alt="loopback3" width="40" height="40"/> </a>
+      </td>
     </tr>
   </tbody>
 </table>
