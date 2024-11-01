@@ -157,7 +157,7 @@
         <a href="https://cordova.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_cordova/apache_cordova-icon.svg" alt="apachecordova" width="40" height="40"/> </a>
         <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
         <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a>
-        <a href="https://www.openapis.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/OAI/OpenAPI-Style-Guide/blob/main/graphics/vector/OpenAPI_Logo_Pantone.svgg" alt="openapi" width="40" height="40"/> </a>
+        <a href="https://www.openapis.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/OAI/OpenAPI-Style-Guide/blob/main/graphics/vector/OpenAPI_Logo_Pantone.svg" alt="openapi" width="40" height="40"/> </a>
       </td>
     </tr>
   </tbody>
