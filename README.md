@@ -123,7 +123,7 @@
     </tr>
     <tr>
       <td colspan="2">
-        <a href="https://www.caregaroo.de" target="_blank" style="font-size: 1.5em; font-weight: bold;">www.caregaroo.de</a>
+        <h3><a href="https://www.caregaroo.de" target="_blank" style="font-size: 1.5em; font-weight: bold;">Caregaroo - Marketplace Platform for Babysitter & Parent matching</a></h3>
       </td>
     </tr>
     <tr>
@@ -148,7 +148,6 @@
     </tr>
     <tr>
       <td colspan="2">
-        <h3 align="left">Technologies used:</h3>
         <a href="https://loopback.io/" target="_blank" rel="noreferrer"> <img src="https://github.com/bestofjs/bestofjs/blob/master/apps/bestofjs-nextjs/public/logos/loopback3.svg" alt="loopback3" width="40" height="40"/> </a>
         <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
         <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
