@@ -1,17 +1,16 @@
 <h1 align="center">Hi 👋, I'm Jörn</h1>
-<h3 align="center">Serial Entrepreneur, Full Stack Engineer, Advisor, Investor</h3>
+<h3 align="center">Serial Entrepreneur, Full Stack Engineer, Advisor</h3>
 
-- 🔭 I’m currently working on [nuwo. furnitureOS: The first and only End-To-End Technology for Purchasing and Managing Office Furnitures](https://www.nuwo.co)
+- 🔭 I’m currently working on [nuwo. furnitureOS: End-To-End Technology for Purchasing and Managing Office Furniture.](https://www.nuwo.co)
 
-- 💬 Ask me about **Team Leadership, Startup, Scaling, AI, PHP, Dart, JavaScript, TypeScript, Yii2, Flutter, AWS, Web**
-
-- 📫 How to reach me **ping@jdde.de**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/jdde/](https://www.linkedin.com/in/jdde/)
+- 💬 Ask me about **Leadership, Startup, AI, PHP, Dart, JavaScript, Yii2, Flutter, AWS, Web, MacOS**
 
 <h2 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/jdde" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jdde" height="30" width="40" /></a>
+
+- LinkedIn [https://www.linkedin.com/in/jdde/](https://www.linkedin.com/in/jdde/)
+- Mail 📫 **ping@jdde.de**
+
 </p>
 
 <h2 align="left">Projects</h1>
@@ -19,7 +18,7 @@
   <tbody>
     <tr>
       <td colspan="2">
-        <h3><a href="https://www.nuwo.co" target="_blank" style="font-size: 1.5em; font-weight: bold;">nuwo. Building the first and only End-To-End Technology for Purchasing and Managing Office Furniture.</a></h3>
+        <h3><a href="https://www.nuwo.co" target="_blank" style="font-size: 1.5em; font-weight: bold;">nuwo. furnitureOS: End-To-End Technology for Purchasing and Managing Office Furniture.</a></h3>
       </td>
     </tr>
     <tr>
@@ -33,7 +32,7 @@
       </td>
       <td width="50%">
         <p>
-          I'm building and leading a high performing engineering team to enable our business vision. Beside that I'm responsible for Product and Technology decisions for ensuring our success.
+          Responsible for nuwo's technology and product vision and execution. Built the platform’s first version, defined its core architecture, and continually integrated new features and bug fixes. Hired and led a team of 5 engineers to bring our vision to life.
         </p>
       </td>
     </tr>
@@ -57,7 +56,6 @@
         <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
         <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
         <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-        <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a> 
         <a href="https://www.figma.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
       </td>
     </tr>
@@ -77,7 +75,7 @@
       </td>
       <td width="50%">
         <p>
-          Change how we work together now and in the future.
+          I worked hands-on building unping for Desktop. Integrated Desktop app deployment pipelines, deployed communication real-time infrastructure on AWS, build the foundation for the backend system.
         </p>
       </td>
     </tr>
