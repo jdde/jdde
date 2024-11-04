@@ -32,7 +32,7 @@
       </td>
       <td width="50%">
         <p>
-          Responsible for nuwo's technology and product vision and execution. Built the platform’s first version, defined its core architecture, and continually integrated new features and bug fixes. Hired and led a team of 5 engineers to bring our vision to life.
+          Responsible for nuwo's technology and product vision and execution. Built the platform’s first version, defined its core architecture, and continually integrated new features and bug fixes. Hired and led a team of 5 engineers to bring our vision to life. With my team I ensure, that we're able to compete in a fast and flexible way in a non-digitized market and lead the industry into a digital future.
         </p>
       </td>
     </tr>
@@ -61,7 +61,7 @@
     </tr>
     <tr>
       <td colspan="2">
-        <h3><a href="https://www.unping.com/app" target="_blank" style="font-size: 1.5em; font-weight: bold;">Unping - change how humans work together.</a></h3>
+        <h3><a href="https://www.unping.com/app" target="_blank" style="font-size: 1.5em; font-weight: bold;">Unping - Next-level collaboration for remote & hybrid teams.</a></h3>
       </td>
     </tr>
     <tr>
@@ -75,7 +75,7 @@
       </td>
       <td width="50%">
         <p>
-          I worked hands-on building unping for Desktop. Integrated Desktop app deployment pipelines, deployed communication real-time infrastructure on AWS, build the foundation for the backend system.
+          As founder and CTO of Unping, I defined the technology vision, creating a robust end-to-end architecture from backend to one of the first Flutter desktop apps. Contributed 4,500+ commits in the first year, iterating rapidly to enhance stability. Built and scaled the tech team, leading key technical decisions to deliver a high-performance platform that boosted team productivity by 30% for early users.
         </p>
       </td>
     </tr>
@@ -105,7 +105,7 @@
     </tr>
     <tr>
       <td colspan="2">
-        <h3><a href="https://www.wundermobility.com" target="_blank" style="font-size: 1.5em; font-weight: bold;">WunderMobility - change how people move from a to b</a></h3>
+        <h3><a href="https://www.wundermobility.com" target="_blank" style="font-size: 1.5em; font-weight: bold;">WunderMobility - Whitelabel Vehicle Sharing Platform</a></h3>
       </td>
     </tr>
     <tr>
@@ -119,7 +119,7 @@
       </td>
       <td width="50%">
         <p>
-          Enable companies to run their shared mobility business.
+          After acquisition I lead a team of 5, managing the technical integration during Wunder Mobility’s acquisition of Fleetbird. As Engineering Manager, I scaled the backend team from 5 to 25, creating and overseeing the hiring process to build a high-performing team of four specialized sub-teams. I introduced key working processes, including agile methodologies, retrospectives, and Git flow, to drive efficiency and collaboration. Increased test coverage from 0% to over 95%, achieving near 100% system uptime (with > 10000 requests/second) and enhanced platform stability. Implemented safeguards to ensure new features wouldn’t disrupt existing functionalities. Balanced leadership with hands-on involvement, shaping the technology roadmap and empowering teams to take ownership of their domains.
         </p>
       </td>
     </tr>
@@ -151,7 +151,7 @@
     </tr>
     <tr>
       <td colspan="2">
-        <h3><a href="https://www.fleetbird.com" target="_blank" style="font-size: 1.5em; font-weight: bold;">Fleetbird - change how people move from a to b</a></h3>
+        <h3><a href="https://www.fleetbird.com" target="_blank" style="font-size: 1.5em; font-weight: bold;">Fleetbird - Whitelabel Vehicle Sharing Platform</a></h3>
       </td>
     </tr>
     <tr>
@@ -165,7 +165,7 @@
       </td>
       <td width="50%">
         <p>
-          As the 5th Employee I was in charge of co-founding the whole technical backend structure of fleetbird. Scaled the team from 5 to 30 engineers, including due diligences, setting up team structures and handling the acquisition Process to Wundermobility.
+          As the 5th Employee I was in charge of co-architecting base features, structures and improvements in the very first fleetbird.com B2B Whitelabel Sharing Provider System. My biggest achievement was to contribute significantly to the acquisition of WunderMobility and handle huge parts of the tech due diligence.
         </p>
       </td>
     </tr>
@@ -207,7 +207,7 @@
       </td>
       <td width="50%">
         <p>
-          Helping parents to find reliable babysitters. Helping Babysitters to find trustful parents. Helping those both to cut appointment and accounting issues.
+          At Caregaroo, my first startup, I independently built the entire frontend, backend, and mobile web app, gaining foundational expertise in full-stack development. This experience taught me the architecture of web applications, REST APIs, and JavaScript across the stack, while I implemented Angular for the frontend and Ionic for mobile web app architecture. Building every layer from scratch deepened my understanding of scalable, responsive applications and fueled my passion for innovative software development.
         </p>
       </td>
     </tr>
