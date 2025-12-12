@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jörn</h1>
 <h3 align="center">Serial Entrepreneur, Full Stack Engineer, Advisor</h3>
 
-- 🔭 I’m currently working on [nuwo. furnitureOS: End-To-End Technology for Purchasing and Managing Office Furniture.](https://www.nuwo.co)
+- 🔭 I'm currently working on **🚗⚡ Something big in e-mobility charging... Stay tuned.**
 
 - 💬 Ask me about **Leadership, Startup, AI, PHP, Dart, JavaScript, Yii2, Flutter, AWS, Web, MacOS**
 
@@ -18,6 +18,35 @@
   <tbody>
     <tr>
       <td colspan="2">
+        <h3>⚡️ Stealth Project - E-Mobility Charging</h3>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%">
+        <ul>
+          <li><b>Position:</b> Founder</li>
+          <li><b>Location:</b> Germany</li>
+          <li><b>Start:</b> 1725148800 (2024-09-01)</li>
+          <li><b>End:</b> -</li>
+        </ul>
+      </td>
+      <td width="50%">
+        <p>
+          <b>🤫 Coming Soon...</b><br><br>
+          Building something that will reshape the e-mobility charging landscape. The future of electric vehicle infrastructure is about to get a lot more interesting.<br><br>
+          <i>Want to be the first to know? Connect with me on LinkedIn.</i>
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <img src="https://media.giphy.com/media/3o7btNa0RUYa5E7iiQ/giphy.gif" alt="coming soon" width="200"/>
+        <br>
+        <b>⚡ Reveal coming soon ⚡</b>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2">
         <h3><a href="https://www.nuwo.co" target="_blank" style="font-size: 1.5em; font-weight: bold;">nuwo. furnitureOS: End-To-End Technology for Purchasing and Managing Office Furniture.</a></h3>
       </td>
     </tr>
@@ -27,7 +56,7 @@
           <li><b>Position:</b> CTO & Co-Founder</li>
           <li><b>Location:</b> Berlin/Germany</li>
           <li><b>Start:</b> 1669852800 (2022-12-01)</li>
-          <li><b>End:</b> -</li>
+          <li><b>End:</b> 1724976000 (2024-08-31)</li>
         </ul>
       </td>
       <td width="50%">
