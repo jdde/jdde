@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jörn</h1>
-<h3 align="center">Serial Entrepreneur, Full Stack Engineer, Advisor</h3>
+<h3 align="center">Founder, Full Stack engineer, Advisor & systems builder. Turning messy tech into clear software.
+Working in public through daily focus hours.</h3>
 
 - 🔭 I'm currently working on **🚗⚡ Something big in e-mobility charging... Stay tuned.**
 
